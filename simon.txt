@@ -1,1 +1,2 @@
 hola este es un segundo archivo.txt
+segunda linea
